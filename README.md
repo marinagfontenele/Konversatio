@@ -3,7 +3,7 @@
 
 **Conecte pessoas, estimule conversas e descubra novas histórias!**
 
-O FirstTable é um aplicativo iOS desenvolvido em Swift que busca tornar os encontros entre amigos mais divertidos e interativos por meio de perguntas criativas geradas com inteligência artificial.
+O Konversatio é um aplicativo iOS desenvolvido em Swift que busca tornar os encontros entre amigos mais divertidos e interativos por meio de perguntas criativas geradas com inteligência artificial.
 
 Utilizando o framework **Foundation Models**, da Apple, o aplicativo transforma informações sobre um grupo em perguntas personalizadas, incentivando conversas espontâneas, debates e momentos descontraídos entre os participantes.
 
@@ -18,7 +18,7 @@ Utilizando o framework **Foundation Models**, da Apple, o aplicativo transforma 
 
 ## 🧠 Inteligência Artificial
 
-O FirstTable utiliza o framework **Foundation Models**, disponibilizado pela Apple, para integrar modelos de linguagem diretamente à experiência do aplicativo.
+O Konversatio utiliza o framework **Foundation Models**, disponibilizado pela Apple, para integrar modelos de linguagem diretamente à experiência do aplicativo.
 
 A inteligência artificial é responsável por gerar perguntas de acordo com as informações fornecidas pelo grupo, tornando cada experiência mais personalizada.
 
@@ -57,7 +57,7 @@ As respostas textuais dos participantes não são armazenadas como parte da expe
 
 ## 🎯 Objetivo do projeto
 
-O FirstTable surgiu da proposta de utilizar a tecnologia como ferramenta para aproximar pessoas.
+O Konversatio surgiu da proposta de utilizar a tecnologia como ferramenta para aproximar pessoas.
 
 Mais do que desenvolver um aplicativo de perguntas e respostas, a ideia é explorar como a inteligência artificial pode contribuir para experiências sociais mais criativas, espontâneas e significativas.
 
@@ -66,7 +66,7 @@ Mais do que desenvolver um aplicativo de perguntas e respostas, a ideia é explo
 
 Projeto desenvolvido por **Marina Gomes Fontenele, Camilla Peixoto, Tainara Nascimento e Isabele Meireles**.
 
-Repositório: [github.com/marinagfontenele/Sweet-Treat](https://github.com/marinagfontenele/Sweet-Treat)
+Repositório: [github.com/marinagfontenele/Konversatio](https://github.com/marinagfontenele/Konversatio)
 
 ---
 
